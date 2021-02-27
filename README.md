@@ -11,5 +11,5 @@
 - 🗯️ **Contact by Discord**: *⧼ Xmaster13 ⧽#0013*
 
                                                                         
-<img src="https://github-readme-stats.vercel.app/api?username=xmaster13m&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmaster13m&layout=compact&show_icons=true&theme=radical">
+![enter image description here](https://github-readme-stats.vercel.app/api?username=xmaster13m&show_icons=true&theme=radical) ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaster13m&layout=compact&show_icons=true&theme=radical)
 
