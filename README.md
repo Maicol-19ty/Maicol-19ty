@@ -8,7 +8,7 @@
 
 - 🐦 **Contact me on Twitter**: [Twitter](https://twitter.com/Xmaster13m/)
 - 📥 **Contact me by Gmail**: [Gmail](xmaster13m@gmail.com)
-- 🗯️ **Contact by Discord**: *⧼ Xmaster13 ⧽#0013*
+- 🗯️ **Contact by Discord**: *Dropead2#9612*
 
                                                                         
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=xmaster13m&show_icons=true&theme=radical) ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaster13m&layout=compact&show_icons=true&theme=radical)
