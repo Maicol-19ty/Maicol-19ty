@@ -13,3 +13,7 @@
                                                                         
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=xmaster13m&show_icons=true&theme=radical) ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=xmaster13m&layout=compact&show_icons=true&theme=radical)
 
+Discord Profile
+
+![Discord](https://discord.c99.nl/widget/theme-2/702936260880105482.png)
+
