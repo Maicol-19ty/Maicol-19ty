@@ -13,7 +13,4 @@
                                                                         
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=dropead2&show_icons=true&theme=radical) ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=dropead2&layout=compact&show_icons=true&theme=radical)
 
-Discord Profile
-
-![Discord](https://discord.c99.nl/widget/theme-2/702936260880105482.png)
 
