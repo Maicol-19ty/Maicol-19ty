@@ -13,7 +13,8 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 
 ---
 
-**My most used technology stack**
+### My most used technology stack
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)
 
 
