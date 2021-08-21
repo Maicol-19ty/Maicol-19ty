@@ -52,6 +52,12 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 
 ### My stats
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=dropead2&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropead2&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dropead2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dropead2's Github Stats">
+</p>
 
+<br>
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropead2&show_icons=true&hide_border=true&theme=radical">
+</p>
