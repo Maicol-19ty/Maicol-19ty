@@ -1,7 +1,8 @@
 ### 💻 _Software Engenieer at [Crowl Network](crowl.club/discord), [VeraxMC Network](https://discord.gg/napb6DMQaR)_ 🏝️ Living in Colombia 🇨🇴
 <br>
 <br>
-![](https://dcbadge.vercel.app/api/shield/702936260880105482?theme=clean-inverted)
+![](https://discord-md-badge.vercel.app/api/shield/739688924464545922?theme=clean-inverted)
+<br>
 
    - <img         src="https://camo.githubusercontent.com/2857eeb614628cee9e2fec30dd669e29c40614c5c58e0dfca0ae8b814c8e3e5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c616e67756167652d4a6176612d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4c616e677561676573266c6f676f436f6c6f723d626c756526636f6c6f723d323832626431">
 
