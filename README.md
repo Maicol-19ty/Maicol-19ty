@@ -17,6 +17,11 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![Maven](https://img.shields.io/badge/-Maven-1565c0?style=for-the-badge&logo=apache-maven)
+![Gradle](https://img.shields.io/badge/-Gradle-green?style=for-the-badge&logo=gradle)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=dropead2&show_icons=true&theme=radical) ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=dropead2&layout=compact&show_icons=true&theme=radical)
