@@ -1,4 +1,4 @@
-💻 _Software Engenieer at [VeraxMC Network](https://discord.gg/napb6DMQaR)_ 🏝️ Living in Colombia 🇨🇴
+💻 _Software Engenieer at [Fiver Development](https://discord.gg/EvYGFHpfjm), [Rhaegal Network](https://discord.gg/VsntSxYJ9d)_ 🏝️ Living in Colombia 🇨🇴
 
 **My discord**
 
