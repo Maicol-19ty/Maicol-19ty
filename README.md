@@ -6,10 +6,6 @@
 src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=clean-inverted">
 <br>
 
-🛠️ **Servers where I work** 🛠️
-
-![Discord Banner 3](https://discord.com/api/guilds/872575317162729534/widget.png?style=banner2)
-
 ---
 
 ### My most used technology stack
