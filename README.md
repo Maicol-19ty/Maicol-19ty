@@ -1,4 +1,4 @@
-💻 _Software Engenieer at [Fiver Development](https://discord.gg/EvYGFHpfjm)_ 🏝️ Living in Colombia 🇨🇴
+💻 _Software Engenieer_ 🏝️ Living in Colombia 🇨🇴
 
 **My discord**
 
