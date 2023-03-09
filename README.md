@@ -39,12 +39,11 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
+  
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dropead2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dropead2&show_icons=true&count_private=true&theme=chartreuse-dark" height="192px"/></a>
+</p>  
 
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dropead2&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dropead2" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dropead2&show_icons=true&locale=en&theme=chartreuse-dark" alt="dropead2" width="410"/>
-</p>
 
 <br><br><br><br><br><br><br><br>
 
