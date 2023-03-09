@@ -29,18 +29,20 @@
 
 ---
 
-### My stats
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dropead2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dropead2's Github Stats">
-</p>
+<br><br><br><br>
 
+<p align="center">
+ <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+</p>
 <br>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropead2&show_icons=true&hide_border=true&theme=radical">
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=dropead2&layout=compact&theme=algolia" alt="Dropead2" />
+ </a>
 </p>
