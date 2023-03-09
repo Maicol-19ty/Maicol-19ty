@@ -1,16 +1,20 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-  
-  
+
+---
+	
+<br>	
+	 
 - 👋 Hi, I’m Maicol
 - 💻 Software Engineering Student
 - 👯 I’m looking to collaborate on backend software engineering projects   
 
+<br>	
+
 ---
 
-
-## Technologies currently using
+### Technologies currently using
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -50,7 +54,7 @@
   </p>  
 
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
