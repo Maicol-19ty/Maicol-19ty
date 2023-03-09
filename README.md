@@ -40,11 +40,14 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
   
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dropead2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dropead2&show_icons=true&count_private=true&theme=chartreuse-dark" height="192px"/></a>
+<br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dropead2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dropead2&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dropead2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Dropead2" height="192px"/>
-</p>  
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dropead2&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dropead2" height="192px"/>
+  <br/>
+  </p>  
 
 
 <br><br><br><br><br><br><br><br>
