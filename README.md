@@ -1,5 +1,11 @@
-💻 _Student Software Engenieer_ 🏝️ Living in Colombia 🇨🇴
-
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+  
+  
+- 👋 Hi, I’m Maicol
+- 💻 Software Engineering Student
+- 👯 I’m looking to collaborate on backend software engineering projects   
 
 ---
 
