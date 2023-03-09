@@ -42,6 +42,7 @@
   
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dropead2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dropead2&show_icons=true&count_private=true&theme=chartreuse-dark" height="192px"/></a>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dropead2&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Dropead2" height="192px"/>
 </p>  
 
