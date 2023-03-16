@@ -49,7 +49,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Maicol-19ty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maicol-19ty&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol-19ty&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dropead2" height="179px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol-19ty&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Maicol-19ty" height="179px"/>
   <br/>
   </p>  
 
