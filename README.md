@@ -6,7 +6,7 @@
 	
 <br>	
 	 
-- 👋 Hi, I’m Maicol
+- 👋 Hi, I’m Maicol Montoya
 - 💻 Software Engineering Student
 - 👯 I’m looking to collaborate on backend software engineering projects   
 
@@ -46,10 +46,10 @@
   
 <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dropead2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dropead2&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Maicol-19ty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maicol-19ty&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dropead2&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dropead2" height="179px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maicol-19ty&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dropead2" height="179px"/>
   <br/>
   </p>  
 
@@ -63,6 +63,6 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dropead2&layout=compact&theme=algolia" alt="Dropead2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maicol-19ty&layout=compact&theme=algolia" alt="Maicol-19ty" />
  </a>
 </p>
