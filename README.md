@@ -18,7 +18,7 @@
 
 <div>
 	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,git,gitlab,github"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,git,gitlab,github"/>
 
 ### Programs that I have used the most
 
