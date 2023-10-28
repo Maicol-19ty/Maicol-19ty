@@ -18,17 +18,7 @@
 
 <div>
 	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
-  <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  
-  <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-js&logoColor=white"/>
-  <img  alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img  alt="Git" src="https://img.shields.io/badge/-Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=%23ffffff"/>
-  <img  alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121.svg?style=for-the-badge&logo=gitlab"/>
-  <img  alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717.svg?style=for-the-badge&logo=github"/>
-  <img  alt="GitHub Actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=ffffff"/>
-</div>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,git,gitlab,github"/>
 
 ### Programs that I have used the most
 
