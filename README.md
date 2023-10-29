@@ -4,10 +4,10 @@
 
 ---
 
-<p aling="center">
-	<img src="https://giphy.com/embed/w5FYGMasjI7pgq0cV6" alt="Git>
+<p aling='center'>
+	<img src="https://giphy.com/embed/w5FYGMasjI7pgq0cV6" alt="Git">
 </p>	
-	
+		
 <br>	
 	 
 - 👋 Hi, I’m Maicol Montoya
