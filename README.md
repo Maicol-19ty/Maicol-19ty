@@ -5,7 +5,7 @@
 ---
 
 <p aling='center'>
-	<img src="https://giphy.com/embed/w5FYGMasjI7pgq0cV6" alt="Git">
+	<img src="[https://giphy.com/embed/w5FYGMasjI7pgq0cV6](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR1NWlzZmo3d253ZzNqNnBjdWZpcTJtMzN3aHRmM3RmaHIxaWNoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w5FYGMasjI7pgq0cV6/giphy.gif)" alt="Git">
 </p>	
 		
 <br>	
