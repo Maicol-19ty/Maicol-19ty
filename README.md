@@ -5,7 +5,7 @@
 ---
 
 <p aling="center">
-	<iframe src="https://giphy.com/embed/w5FYGMasjI7pgq0cV6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-w5FYGMasjI7pgq0cV6">via GIPHY</a></p>
+	<img src="https://giphy.com/embed/w5FYGMasjI7pgq0cV6">
 </p>	
 	
 <br>	
