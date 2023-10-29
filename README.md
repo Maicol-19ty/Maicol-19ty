@@ -4,7 +4,7 @@
 
 ---
 
-<p aling='center'>
+<p align='center'>
 	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR1NWlzZmo3d253ZzNqNnBjdWZpcTJtMzN3aHRmM3RmaHIxaWNoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w5FYGMasjI7pgq0cV6/giphy.gif" alt="Git">
 </p>	
 		
