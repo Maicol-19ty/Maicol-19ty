@@ -49,13 +49,3 @@
 
 <br><br>
 
-<p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
-</p>
-<br>
-
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maicol-19ty&layout=compact&theme=algolia" alt="Maicol-19ty" />
- </a>
-</p>
