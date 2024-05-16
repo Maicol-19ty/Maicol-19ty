@@ -12,7 +12,11 @@
 	 
 - 👋 Hi, I’m Maicol Montoya
 - 💻 Software Engineering Student
-- 👯 I’m looking to collaborate on backend software engineering projects   
+- 👯 I’m looking to collaborate on backend software engineering projects
+
+  <h2>🗺️ Contact me</h2>
+  <a href="https://twitter.com/Maicol19ty"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maicol-b7124123b/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>	
 
