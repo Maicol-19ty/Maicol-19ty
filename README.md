@@ -33,10 +33,22 @@
   <img  alt="HTML5" src="https://skillicons.dev/icons?i=react,next,nodejs,bun"/>
 </div>
 
-### Programs that I have used the most
+### Tools and Platforms
+
+<div>	
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=vercel,docker,git,github"/>
+</div>
+
+### Databases
+
+<div>	
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo,redis"/>
+</div>
+
+### Programs 
 
 <div>
-  <img  alt="vscode" src="https://skillicons.dev/icons?i=idea,vscode,"/> 
+  <img  alt="vscode" src="https://skillicons.dev/icons?i=idea,vscode,webstorm"/> 
 </div>
 
 ---
