@@ -21,11 +21,17 @@
 
 ---
 
-### Technologies currently using
+### Programming languages
 
-<div>
-	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,mongodb,git,gitlab,github"/>
+<div>	
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,js,html,css"/>
+</div>
+
+### Frameworks and Libraries
+
+<div>	
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=react,next,nodejs,bun"/>
+</div>
 
 ### Programs that I have used the most
 
