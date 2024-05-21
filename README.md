@@ -42,7 +42,7 @@
 ### Databases
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo,redis"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo"/>
 </div>
 
 ### Programs 
