@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 <br>	
 	 
 - 👋 Hi, I’m Maicol Montoya
