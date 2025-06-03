@@ -50,7 +50,7 @@
 ### Programs 
 
 <div>
-  <img  alt="vscode" src="=https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode"/> 
+  <img  alt="vscode" src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode"/> 
 </div>
 
 ---
