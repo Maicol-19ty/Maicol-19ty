@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Maicol Montoya 🖥️
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Developer;" alt="Typing SVG" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -15,16 +19,20 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Maicol19ty)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maicol-b7124123b)
 
+---
+
+## ⚙️ Tech Stack
+
 ### Programming languages
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,js,ts,html,css"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css"/>
 </div>
 
 ### Frameworks and Libraries
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=react,next,nodejs,bun"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=react,tailwind,spring,next,nodejs,bun"/>
 </div>
 
 ### Tools and Platforms
@@ -36,13 +44,13 @@
 ### Databases
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo,postgres,redis"/>
 </div>
 
 ### Programs 
 
 <div>
-  <img  alt="vscode" src="https://skillicons.dev/icons?i=idea,vscode,webstorm"/> 
+  <img  alt="vscode" src="=https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode"/> 
 </div>
 
 ---
