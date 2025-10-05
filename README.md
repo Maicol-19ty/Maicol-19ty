@@ -38,7 +38,7 @@
 ### Tools and Platforms
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=vercel,docker,git,github,aws,azure,googlecloud,maven,gradle"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=vercel,docker,git,github,aws,azure,googlecloud,maven,gradle,grafana,prometheus"/>
 </div>
 
 ### Databases
