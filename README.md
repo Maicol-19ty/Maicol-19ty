@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🛠️ Focused on **performance**, **developer experience**
-- 💻 Software Engineering Student
+- 💻 Software Engineering
 - 👯 I’m looking to collaborate on software engineering projects
 	
 ---
