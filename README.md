@@ -32,19 +32,19 @@
 ### Frameworks and Libraries
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=react,tailwind,spring,next,nodejs,bun"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=react,tailwind,next,spring,nestjs,express,fastapi,nodejs,bun"/>
 </div>
 
 ### Tools and Platforms
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=vercel,docker,git,github,githubactions,aws,azure,googlecloud,maven,gradle,grafana,prometheus,nginx"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=vercel,docker,kubernetes,git,github,githubactions,aws,azure,googlecloud,ubuntu,maven,gradle,grafana,prometheus,nginx,cloudflare"/>
 </div>
 
 ### Databases
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo,postgres,redis"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=mysql,mongo,postgres,redis,prisma"/>
 </div>
 
 ### Programs 
