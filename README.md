@@ -26,7 +26,7 @@
 ### Programming languages
 
 <div>	
-  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css"/>
+  <img  alt="HTML5" src="https://skillicons.dev/icons?i=java,python,js,ts,rust,html,css"/>
 </div>
 
 ### Frameworks and Libraries
